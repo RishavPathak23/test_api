@@ -1,0 +1,16 @@
+{
+    "info": {
+        "categories": {
+            "id": 1,
+            "numbers": {
+                "num1": 1,
+                "num2": 2
+            },
+            "alphabets": {
+                "alp1": "a",
+                "alp2": "b"
+
+            }
+        }
+    }
+}
